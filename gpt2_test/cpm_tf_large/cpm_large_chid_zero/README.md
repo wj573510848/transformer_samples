@@ -167,7 +167,7 @@ def process_one_sent_eval(tokenizer, sent, answers, candidates, max_length):
 
 # 备注
 
-个人代码：
+个人代码：`https://github.com/wj573510848/transformer_samples/tree/master/gpt2_test/cpm_tf_large/cpm_large_chid_zero`
 
 需在`config.py`中指定预训练模型位置，预训练模下载地址：`https://huggingface.co/mymusise/CPM-GPT2`。
 
